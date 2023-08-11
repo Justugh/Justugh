@@ -4,4 +4,4 @@
 
 - 🔭 I’m currently working on [JustAPI](https://github.com/Justugh/JustAPI)
 - 📫 How to reach me: @Justugh#0001 on Discord
-- ⚡ Fun fact: I dispise nail files
+- ⚡ Fun fact: I despise nail files
